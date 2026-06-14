@@ -18,7 +18,7 @@ Shout out to the people speaking life.
 energy = {
     "sound": "wise, soulful, truthful",
     "mode": "non_entertainment_first",
-    "wish": "to be free enough to joke, play, and still mean it",
+    "wish": "to be free enough to joke, play, and enjoy it fully", 
     "question": "energy, frequency, life — qual é a diferença?"
 }
 
