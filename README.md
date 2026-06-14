@@ -7,7 +7,7 @@ Listening
 # Expression first.
 
 purpose = """
-I dedicate this to music because music is one of the ways my mind speaks.
+I dedicate this repo to music because music is one of the ways my mind speaks.
 
 While I am busy building systems, I still hear the atmosphere.
 Some words add nothing to the community.
